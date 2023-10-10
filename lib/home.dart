@@ -62,7 +62,7 @@ int number=0;
             SizedBox(
             height: 30,
           ),
-          Text("  لاحول ولا قوة الا بالله  ",
+          Text(" لا اله الا الله ولاحول ولا قوة الا بالله  ",
             style: TextStyle(
               color: Colors.white,
               fontSize: 20,
